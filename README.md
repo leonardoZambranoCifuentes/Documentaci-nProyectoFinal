@@ -66,6 +66,11 @@ La integración continua es una práctica que se utiliza en el desarrollo de sof
 Beneficios:
 Evita el mal conocido como “Merge Hell” que es el problema que ocurría con anterioridad en el momento de integrar el código en un equipo de desarrolladores cuando aparecía una inconsistencia en las líneas de código y esto producía una afectación a varias líneas de código más en diferentes clases. Además, la integración continua hace énfasis en la ejecución automática de las pruebas unitarias garantizando la detección de errores en etapas tempranas en el desarrollo, esto genera una reducción de los costos.
 
+En la siguiente imagen se puede observar que los contenedores se crearon exitosament y se logró cumplir con los objetivos del proyecto final  
+
+![](https://github.com/leonardoZambranoCifuentes/Documentaci-nProyectoFinal/blob/master/Im%C3%A1genes%20del%20proyecto%20final-%20Aguirre-Lewis-Tiago/Docker%20compose.jpeg)
+
+
 ### Errores 
 
 Para la comunicación entre el front y el back se tenia con "localhost" lo cual se presenta como problema al trabajar con Docker.
