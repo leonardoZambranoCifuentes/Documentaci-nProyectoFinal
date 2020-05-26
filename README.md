@@ -1,4 +1,4 @@
-# Encabezado Principal
+# Proyecto Final Sistemas Distribuidos
 
 ### Integrantes del Equipo
 
