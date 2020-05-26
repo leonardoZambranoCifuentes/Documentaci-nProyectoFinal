@@ -80,11 +80,13 @@ Para la solución de este error se cambió la dirección IP del Local Host por l
 
 #### 1- https://www.adictosaltrabajo.com/2017/06/22/balanceando-apps-de-spring-boot-con-nginx-en-docker/
 #### 2- http://nginx.org/en/docs/http/load_balancing.html
-3- https://www.freecodecamp.org/news/docker-nginx-letsencrypt-easy-secure-reverse-proxy-40165ba3aee2/
-4- https://j2logo.com/tutorial-flask-leccion-3-formularios-wtforms/
-5- https://docs.docker.com/develop/
-6- https://docs.docker.com/compose/gettingstarted/#prerequisites
-7- https://riptutorial.com/es/docker-compose
+3- https://www.freecodecamp.org/news/docker-nginx-letsencrypt-easy-secure-reverse-proxy-40165ba3aee2/  
+
+4- https://j2logo.com/tutorial-flask-leccion-3-formularios-wtforms/  
+
+5- https://docs.docker.com/develop/  
+6- https://docs.docker.com/compose/gettingstarted/#prerequisites  
+7- https://riptutorial.com/es/docker-compose  
 8- https://dockertips.com/utilizando-docker-compose
 9- https://www.youtube.com/watch?v=BNtMVZiD8UE
 10- https://www.youtube.com/watch?v=1er2cjUq1UI
