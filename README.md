@@ -76,6 +76,7 @@ Para la solución de este error se cambió la dirección IP del Local Host por l
 
 ![](https://github.com/leonardoZambranoCifuentes/Documentaci-nProyectoFinal/blob/master/Im%C3%A1genes%20del%20proyecto%20final-%20Aguirre-Lewis-Tiago/Problemas%20y%20errores/Cambiando%20localhost%20por%20IP.jpeg)
 
+
 ### Referencias
 
 #### 1- https://www.adictosaltrabajo.com/2017/06/22/balanceando-apps-de-spring-boot-con-nginx-en-docker/
