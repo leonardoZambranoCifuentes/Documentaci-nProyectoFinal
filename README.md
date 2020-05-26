@@ -68,7 +68,11 @@ Evita el mal conocido como “Merge Hell” que es el problema que ocurría con 
 
 ### Errores 
 
-Para la comunicacion entre el front y el back se tenia con "localhost" lo cual se presenta como problema al trabajar con Docker.
+Para la comunicación entre el front y el back se tenia con "localhost" lo cual se presenta como problema al trabajar con Docker.
 
-![](https://github.com/leonardoZambranoCifuentes/Documentaci-nProyectoFinal/blob/master/Im%C3%A1genes%20del%20proyecto%20final-%20Aguirre-Lewis-Tiago/Problemas%20y%20errores/Direccion%20IP%20LocalHost.jpeg)
+![](https://github.com/leonardoZambranoCifuentes/Documentaci-nProyectoFinal/blob/master/Im%C3%A1genes%20del%20proyecto%20final-%20Aguirre-Lewis-Tiago/Problemas%20y%20errores/Direccion%20IP%20LocalHost.jpeg)  
+
+Para la solución de este error se cambió la dirección IP del Local Host por la dirección IP del equipo húesped.
+
+![](https://github.com/leonardoZambranoCifuentes/Documentaci-nProyectoFinal/blob/master/Im%C3%A1genes%20del%20proyecto%20final-%20Aguirre-Lewis-Tiago/Problemas%20y%20errores/Cambiando%20localhost%20por%20IP.jpeg)
 
